@@ -1,0 +1,24 @@
+{
+  "name": "dbconnect",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
+    "joi": "^17.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.13.14",
+    "morgan": "^1.10.0",
+    "nconf": "^0.11.2",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7",
+    "swagger-ui-express": "^4.1.6"
+  }
+}

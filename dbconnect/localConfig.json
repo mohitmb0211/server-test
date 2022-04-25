@@ -1,0 +1,11 @@
+{
+    "app": {
+      "port": 1020,
+      "appName": "Tech Superiors",
+      "baseURL": "http://localhost:1020/api"
+    },
+    "db": {
+      "dbURI": "mongodb+srv://mohitmb0208:testmongodb@cluster0.b7mbr.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    }
+  }
+  
